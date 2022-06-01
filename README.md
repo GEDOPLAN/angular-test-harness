@@ -1,4 +1,4 @@
-# GEDOPLAN Angular und Component Harnesses
+# GEDOPLAN Angular and Component Harnesses
 
 Angular testing demo with component harnesses
 
